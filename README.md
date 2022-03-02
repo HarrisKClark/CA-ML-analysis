@@ -25,3 +25,6 @@ pygame, pyperclip, numpy, matplotlib, sklearn, pandas, numpy
 https://www.pygame.org/news, https://numpy.org/ , https://pypi.org/project/pyperclip/, https://matplotlib.org/, https://scikit-learn.org/stable/, https://pandas.pydata.org/
  
 - Harris Clark 
+
+
+Update 1: aded 2 more analysis points
